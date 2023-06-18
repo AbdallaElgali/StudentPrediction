@@ -10,15 +10,7 @@ main.py: Das Haupt-Python-Skript, das die Implementierung des Jobvermittler-Mode
 student-mat.csv: Der Datensatz enthält Informationen zu Schülern, einschließlich Noten, Lernzeit, Fehlzeiten und Misserfolgen.
 studentmodel.pickle: Eine serialisierte Version des trainierten linearen Regressionsmodells.
 
-## Installation
-Klonen Sie das Projekt-Repository von GitHub:
 
-git clone <repository-url>
-  
-Installieren Sie die erforderlichen Bibliotheken, indem Sie den folgenden Befehl ausführen:
-
-pip install -r requirements.txt
-  
 ## Verwendung
   
 1. Öffnen Sie ein Terminal oder eine Befehlszeile und navigieren Sie zum Projektverzeichnis.
