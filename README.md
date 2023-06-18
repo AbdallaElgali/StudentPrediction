@@ -10,16 +10,6 @@ The project consists of the following files:
  - student-mat.csv: The dataset containing student information, including grades, study time, absences, and failures.
  - studentmodel.pickle: A serialized version of the trained linear regression model.
 
-## Installation
-
-1. Clone the project repository from GitHub:
-
-
-git clone <repository-url>
-
-2. Install the required libraries by running the following command:
-
-pip install -r requirements.txt
 
 ## Usage
 
